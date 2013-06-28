@@ -1,0 +1,6 @@
+author eIrOcA
+email  staff@eiroca.net
+date   2013-06-29
+name   GPLUSONE -- Google +1 plugin
+desc   Add Goole +1 button to wiki pages. Syntax: ~~GPLUSONE~attribute=value~~
+url    http://www.eiroca.net/dokuwiki_gplusone
