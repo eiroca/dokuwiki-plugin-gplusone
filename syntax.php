@@ -5,7 +5,7 @@
  * @copyright Copyright (C) 2013-2013 eIrOcA - Enrico Croce & Simona Burzio
  * @license GPL >=3 (http://www.gnu.org/licenses/)
  * @version 1.0.0
- * @link http://www.eiroca.net
+ * @link http://www.eiroca.net/doku_gplusone
  */
 if (!defined('DOKU_INC')) die();
 if (!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN',DOKU_INC.'lib/plugins/');
