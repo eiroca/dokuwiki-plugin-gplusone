@@ -9,5 +9,5 @@ $lang['callback'] = 'If specified, this function is called after the user clicks
 $lang['onstartinteraction'] = 'If specified, this function is called either when a hover bubble displays.';
 $lang['onendinteraction'] = 'If specified, this function is called when either a hover or confirmation bubble disappears.';
 $lang['recommendations'] = 'To disable showing recommendations within the +1 hover bubble, set recommendations to false.';
-$lang['gplusone_editor']='Goole +1';
+$lang['gplusone_editor'] = 'Goole +1';
 ?>

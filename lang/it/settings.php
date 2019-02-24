@@ -9,5 +9,5 @@ $lang['callback'] = "Se il parametro viene specificato, la funzione viene chiama
 $lang['onstartinteraction'] = 'Se il parametro viene specificato, la funzione viene chiamata quando appare un fumetto di passaggio del mouse.';
 $lang['onendinteraction'] = 'Se il parametro viene specificato, questa funzione viene chiamata quando scompare un fumetto di passaggio del mouse o di conferma.';
 $lang['recommendations'] = "Per disattivare la visualizzazione dei consigli all'interno del fumetto di passaggio del mouse sul +1, imposta recommendations su false.";
-$lang['gplusone_editor']='Goole +1';
+$lang['gplusone_editor'] = 'Goole +1';
 ?>
